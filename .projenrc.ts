@@ -10,6 +10,7 @@ const project = new GemeenteNijmegenCdkApp({
   ],
   devDeps: [
     '@gemeentenijmegen/projen-project-type',
+    'cdk-nag',
   ],
   projenrcTs: true,
 

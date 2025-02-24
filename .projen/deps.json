@@ -33,6 +33,10 @@
       "type": "build"
     },
     {
+      "name": "cdk-nag",
+      "type": "build"
+    },
+    {
       "name": "commit-and-tag-version",
       "version": "^12",
       "type": "build"
