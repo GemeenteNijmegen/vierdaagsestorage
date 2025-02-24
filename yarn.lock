@@ -528,6 +528,11 @@
     "@eslint/core" "^0.12.0"
     levn "^0.4.1"
 
+"@gemeentenijmegen/aws-constructs@^0.0.30":
+  version "0.0.30"
+  resolved "https://registry.yarnpkg.com/@gemeentenijmegen/aws-constructs/-/aws-constructs-0.0.30.tgz#6419635412a0d2fa5659199ccd0911f5a525ed88"
+  integrity sha512-kqgERi03WoyzJBIeVmH5faC7omE8BCHKnCvNW0euHdJXtw/pxOaVxI0gew3VgOve87Cgoey09K+Tft9YPW1w4g==
+
 "@gemeentenijmegen/projen-project-type@^1.8.7":
   version "1.8.7"
   resolved "https://registry.yarnpkg.com/@gemeentenijmegen/projen-project-type/-/projen-project-type-1.8.7.tgz#815d035fc44e55f8d1bf466b1f5a6495126f99f3"
