@@ -48,6 +48,11 @@ const EnvironmentConfigurations: {[key:string]: Configuration} = {
     buildEnvironment: Statics.gnBuildEnvironment,
     deploymentEnvironment: Statics.gn4DaagseStorageAccpEnvironment,
   },
+  production: {
+    branch: 'main',
+    buildEnvironment: Statics.gnBuildEnvironment,
+    deploymentEnvironment: Statics.gn4DaagseStorageProdEnvironment,
+  },
 };
 
 /**
