@@ -13,6 +13,11 @@ export class Statics {
     region: 'eu-central-1',
   };
 
+  static readonly gn4DaagseStorageProdEnvironment = {
+    account: '061039783330',
+    region: 'eu-central-1',
+  };
+
   static readonly accountRootHostedZonePath: string = '/gemeente-nijmegen/account/hostedzone/';
   static readonly accountRootHostedZoneId: string = '/gemeente-nijmegen/account/hostedzone/id';
   static readonly accountRootHostedZoneName: string = '/gemeente-nijmegen/account/hostedzone/name';
